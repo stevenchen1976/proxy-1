@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "proxy", "proxy.vcproj", "{03725C81-AFB6-4930-BB79-ED50AD39429C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "proxyo", "proxyo.vcproj", "{1FC149F3-35CB-4F4A-8AA8-322D8ABA40A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		nohijack|Win32 = nohijack|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03725C81-AFB6-4930-BB79-ED50AD39429C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03725C81-AFB6-4930-BB79-ED50AD39429C}.Debug|Win32.Build.0 = Debug|Win32
+		{03725C81-AFB6-4930-BB79-ED50AD39429C}.nohijack|Win32.ActiveCfg = nohijack|Win32
+		{03725C81-AFB6-4930-BB79-ED50AD39429C}.nohijack|Win32.Build.0 = nohijack|Win32
+		{03725C81-AFB6-4930-BB79-ED50AD39429C}.Release|Win32.ActiveCfg = Release|Win32
+		{03725C81-AFB6-4930-BB79-ED50AD39429C}.Release|Win32.Build.0 = Release|Win32
+		{1FC149F3-35CB-4F4A-8AA8-322D8ABA40A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1FC149F3-35CB-4F4A-8AA8-322D8ABA40A0}.Debug|Win32.Build.0 = Debug|Win32
+		{1FC149F3-35CB-4F4A-8AA8-322D8ABA40A0}.nohijack|Win32.ActiveCfg = nohijack|Win32
+		{1FC149F3-35CB-4F4A-8AA8-322D8ABA40A0}.nohijack|Win32.Build.0 = nohijack|Win32
+		{1FC149F3-35CB-4F4A-8AA8-322D8ABA40A0}.Release|Win32.ActiveCfg = Release|Win32
+		{1FC149F3-35CB-4F4A-8AA8-322D8ABA40A0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
